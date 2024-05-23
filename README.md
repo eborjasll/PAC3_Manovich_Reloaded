@@ -8,6 +8,6 @@ Data: 21/05/2024
 
 ## Cas 1: Refik Anadol
 
-[![Quantum Memories]]([URL_del_vídeo]([https://www.youtube.com/watch?v=oFsjVtmnbS0])
+[![Quantum Memories]](https://www.youtube.com/watch?v=oFsjVtmnbS0)
 
 ## Cas 2: Teamlab
