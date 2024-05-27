@@ -38,8 +38,11 @@ Utilitza 200 milions de fotografies de la Terra per crear una realitat alternati
 
 ## Cas 2: Teamlab
 
+![Teamlab - Borderless](https://creacionhibrida.net/wp-content/uploads/2021/10/Main_Universe_of_Water_Particles_on_a_Rock_wh.width-2000-1536x1024.jpg)
+
 TeamLab és un col·lectiu d'artistes digitals conegut per les seves instal·lacions immersives que combinen tecnologia avançada, llum, color i interactivitat. El seu objectiu és explorar i entendre el món a través de l'art digital, traspassant el límit de l'expressió artística de les limitacions materials i aconseguint la transformació a través de la interacció. Aquesta interactivitat s’aconsegueix gràcies a una programació que integra sensors de moviment, algoritmes de processament de dades i visuals generats per ordinador. Això crea espais on els visitants poden compartir experiències i col·laborar en la creació d'art, exemplificant la cultura participativa. Els visitants es submergeixen en un món on les fronteres físiques desapareixen i l'art es converteix en una experiència col·lectiva. Això converteix als visitants en cocreadors de l'obra, col·laborant en la seva evolució i transformació.
 TeamLab també integra elements de la natura i la ciència en les seves obres, explorant la relació entre els humans i l’entorn. El col·lectiu busca conscienciar sobre la importància de la interacció amb la naturalesa i la necessitat de preservar-la. 
+
 
 **Conceptes**
 
@@ -51,8 +54,11 @@ TeamLab també integra elements de la natura i la ciència en les seves obres, e
 
 **Naturalesa digitalitzada**. Utilitza tecnologies digitals com sensors, xarxes, llum i so, que no impacten físicament en la naturalesa. Es crea una experiència artística que ofereix una nova visió del món, més enllà del que la ment humana podria entendre per si sola.
 
+[Teamlab - Borderless](https://youtu.be/Xy6Vz3rkd1w?list=TLGGEu0nwaXyX2EyNzA1MjAyNA)
+
 
 ###**Les seves obres**
+
 **"Borderless"**
 El primer museu d’art immersiu i digital, és un centre d’experimentació i navegació per mitjà de l’art, la ciència, la tecnologia i el món natural. Els espectadors interactuen directament amb les obres d'art, canviant la seva forma i estructura depenent dels moviments humans. 
 
@@ -65,17 +71,27 @@ Cada una de les peces de la instal·lació es modifica amb la intervenció dels 
 **"Future Park"** 
 És un projecte experimental educatiu basant-se en la creació col·laborativa on es gaudeix de la creativitat lliurement amb altres persones. S’hi pot trobar el "Sketch Aquarium", on els visitants poden dibuixar i escanejar els seus propis peixos que cobren vida en una projecció d'un aquari digital.
 
+![Teamlab - Sketch Aquarium](https://team-lab.imagewave.pictures/y3rE987T2mLrDxgfTdDxsc?width=1920)
+
 
 ## Bibliografia
 
-    - Manovich, Lev. (2013) El software toma el mando. *Editorial UOC* Barcelona. ISBN 9788490298633.
-      
-    - Refik Anadol (2024)  https://refikanadol.com/
-    - Liam McCann (2023) Refik Anadol: en el punto de intersección entre el arte, la ciencia y la tecnología. *Julius Bar*. https://www.juliusbaer.com/es/insights/company-insights/nuestros-compromisos/refik-anadol-en-el-punto-de-interseccion-entre-el-arte-la-ciencia-y-la-tecnologia/
-    • Luis Alberto Peralta (2024) Refik Anadol, el artista que llevó la IA al MoMa. El  País https://elpais.com/proyecto-tendencias/2024-04-10/refik-anadol-el-artista-que-llevo-la-ia-al-moma-este-es-un-momento-comparable-al-renacimiento.html
-    • Paula L. Izquierdo (2024) 'Quantum Memories', la obra de arte producida con más de 200 millones de recuerdos digitalizados. Cultura Inquieta https://culturainquieta.com/arte/arte-digital/quantum-memories-la-obra-de-arte-producida-con-mas-de-200-millones-de-recuerdos-digitalizados/
-    • Yanett R. Letechipía (2023) Refik Anadol. Creación Híbrida https://creacionhibrida.net/refik-anadol/
-    • Teamlab (2024) https://www.teamlab.art/es/
-    • Metrópolis (2019) Metrópolis RTVE https://www.rtve.es/television/20190514/teamlab/1934327.shtml
-    • (2019) Exposición Teamlab. Fundación Telefónica https://espacio.fundaciontelefonica.com/evento/teamlab/
-    • Yanett R. Letechipía (2023) Teamlab. Creación Híbrida https://creacionhibrida.net/teamlab/
+-   Manovich, Lev. (2013) _El software toma el mando_. Editorial UOC, 2013. Barcelona. ISBN 9788490298633.
+    
+-   Refik Anadol (2024) [https://refikanadol.com/](https://refikanadol.com/)
+    
+-   Liam McCann (2023) Refik Anadol: en el punto de intersección entre el arte, la ciencia y la tecnología. _Julius Bar_. [https://www.juliusbaer.com/es/insights/company-insights/nuestros-compromisos/refik-anadol-en-el-punto-de-interseccion-entre-el-arte-la-ciencia-y-la-tecnologia/](https://www.juliusbaer.com/es/insights/company-insights/nuestros-compromisos/refik-anadol-en-el-punto-de-interseccion-entre-el-arte-la-ciencia-y-la-tecnologia/)
+    
+-   Luis Alberto Peralta (2024) Refik Anadol, el artista que llevó la IA al MoMa. _El País_  [https://elpais.com/proyecto-tendencias/2024-04-10/refik-anadol-el-artista-que-llevo-la-ia-al-moma-este-es-un-momento-comparable-al-renacimiento.html](https://elpais.com/proyecto-tendencias/2024-04-10/refik-anadol-el-artista-que-llevo-la-ia-al-moma-este-es-un-momento-comparable-al-renacimiento.html)
+    
+-   Paula L. Izquierdo (2024) 'Quantum Memories', la obra de arte producida con más de 200 millones de recuerdos digitalizados. _Cultura Inquieta_  [https://culturainquieta.com/arte/arte-digital/quantum-memories-la-obra-de-arte-producida-con-mas-de-200-millones-de-recuerdos-digitalizados/](https://culturainquieta.com/arte/arte-digital/quantum-memories-la-obra-de-arte-producida-con-mas-de-200-millones-de-recuerdos-digitalizados/)
+    
+-   Yanett R. Letechipía (2023) Refik Anadol. _Creación Híbrida_ [https://creacionhibrida.net/refik-anadol/](https://creacionhibrida.net/refik-anadol/)
+    
+-   Teamlab (2024) [https://www.teamlab.art/es/](https://www.teamlab.art/es/)
+    
+-   Metrópolis (2019) _Metrópolis RTVE_ [https://www.rtve.es/television/20190514/teamlab/1934327.shtml](https://www.rtve.es/television/20190514/teamlab/1934327.shtml)
+    
+-   (2019) Exposición Teamlab. _Fundación Telefónica_ [https://espacio.fundaciontelefonica.com/evento/teamlab/](https://espacio.fundaciontelefonica.com/evento/teamlab/)
+    
+-   Yanett R. Letechipía (2023) Teamlab. _Creación Híbrida_ [https://creacionhibrida.net/teamlab/](https://creacionhibrida.net/teamlab/)
