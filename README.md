@@ -20,7 +20,7 @@ Proposa la idea d’una "arquitectura post-digital" que integra dades i tecnolog
 
 
 ![Casa Batllo](https://refikanadol.com/wp-content/uploads/2023/04/Screenshot-2023-04-14-at-8.08.15-AM-2400x1353.png)
-
+> Living Architecture : Casa Batlló
 
 
 **Les seves obres**
@@ -45,6 +45,7 @@ Utilitza 200 milions de fotografies de la Terra per crear una realitat alternati
 
 
 ![Quantum Memories](https://creacionhibrida.net/wp-content/uploads/2021/07/Quantum-Memories-00_767328-2400x1350-1-1536x864.jpeg)
+> Quantum Memories. Austràlia
 
 [Quantum Memories Video](https://www.youtube.com/watch?v=oFsjVtmnbS0)
 
@@ -53,11 +54,14 @@ Utilitza 200 milions de fotografies de la Terra per crear una realitat alternati
 ## Cas 2: Teamlab
 
 
-![Teamlab - Borderless](https://creacionhibrida.net/wp-content/uploads/2021/10/Main_Universe_of_Water_Particles_on_a_Rock_wh.width-2000-1536x1024.jpg)
-
-
 TeamLab és un col·lectiu d'artistes digitals conegut per les seves instal·lacions immersives que combinen tecnologia avançada, llum, color i interactivitat. El seu objectiu és explorar i entendre el món a través de l'art digital, traspassant el límit de l'expressió artística de les limitacions materials i aconseguint la transformació a través de la interacció. Aquesta interactivitat s’aconsegueix gràcies a una programació que integra sensors de moviment, algoritmes de processament de dades i visuals generats per ordinador. Això crea espais on els visitants poden compartir experiències i col·laborar en la creació d'art, exemplificant la cultura participativa. Els visitants es submergeixen en un món on les fronteres físiques desapareixen i l'art es converteix en una experiència col·lectiva. Això converteix als visitants en cocreadors de l'obra, col·laborant en la seva evolució i transformació.
 TeamLab també integra elements de la natura i la ciència en les seves obres, explorant la relació entre els humans i l’entorn. El col·lectiu busca conscienciar sobre la importància de la interacció amb la naturalesa i la necessitat de preservar-la. 
+
+![Teamlab - Borderless](https://creacionhibrida.net/wp-content/uploads/2021/10/Main_Universe_of_Water_Particles_on_a_Rock_wh.width-2000-1536x1024.jpg)
+> Museu Borderless. Japó
+
+[Teamlab - Borderless Video](https://youtu.be/Xy6Vz3rkd1w?list=TLGGEu0nwaXyX2EyNzA1MjAyNA)
+
 
 
 **Conceptes**
@@ -69,8 +73,6 @@ TeamLab també integra elements de la natura i la ciència en les seves obres, e
 **Relacions entre persones**. A diferència de l'art tradicional, que no canvia segons la presència de les persones, l'art digital permet que l'obra canviï segons el comportament dels visitants. Pot suggerir que les ciutats digitals podrien millorar les relacions humanes.
 
 **Naturalesa digitalitzada**. Utilitza tecnologies digitals com sensors, xarxes, llum i so, que no impacten físicament en la naturalesa. Es crea una experiència artística que ofereix una nova visió del món, més enllà del que la ment humana podria entendre per si sola.
-
-[Teamlab - Borderless Video](https://youtu.be/Xy6Vz3rkd1w?list=TLGGEu0nwaXyX2EyNzA1MjAyNA)
 
 
 **Les seves obres**
@@ -89,7 +91,7 @@ Cada una de les peces de la instal·lació es modifica amb la intervenció dels 
 
 
 ![Teamlab - Sketch Aquarium](https://team-lab.imagewave.pictures/y3rE987T2mLrDxgfTdDxsc?width=1920)
-> Sketch Aquarium
+> Sketch Aquarium. Japó
 
 
 ## Bibliografia
