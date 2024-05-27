@@ -89,7 +89,7 @@ Cada una de les peces de la instal·lació es modifica amb la intervenció dels 
 
 
 ![Teamlab - Sketch Aquarium](https://team-lab.imagewave.pictures/y3rE987T2mLrDxgfTdDxsc?width=1920)
-[^1]: Sketch Aquarium
+> Sketch Aquarium
 
 
 ## Bibliografia
