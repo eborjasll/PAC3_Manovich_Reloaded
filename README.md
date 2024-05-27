@@ -15,17 +15,29 @@ Refik Anadol és un artista que combina art, ciència i tecnologia, centrant-se 
 Proposa la idea d’una "arquitectura post-digital" que integra dades i tecnologies digitals per crear entorns immersius i redefinir elements arquitectònics que et transporten a realitats alternatives. Les seves obres utilitzen grans volums de dades per generar escultures, pintures tridimensionals i instal·lacions immersives, oferint noves perspectives i narracions, transformant la tecnologia en art. Aconsegueix que grans quantitats de dades es converteixin en visuals espectaculars que abans eren invisibles per a l'ull humà. Les seves obres evolucionen en temps real gràcies a les noves tecnologies. Aquesta capacitat de transformar dades en art és una manifestació del nou llenguatge dels mitjans digitals, com podem visualitzar les dades d'una manera que abans era impensable. Refik Anadol aconsegueix així, crear obres que permeten als espectadors experimentar les dades d'una manera nova.
 
 **Les seves obres**
+
 **"Unsupervised"**
+
 Transforma les metadades de la col·lecció del museu en formes que es generen contínuament en temps real.
+
 **"Machine Hallucination: NYC"**
+
 Utilitza milions d'imatges de Nova York per imaginar el futur de la ciutat utilitzant algoritmes d'aprenentatge automàtic i creant paissatges digitals que envolten els espectadors. 
+
 **"Interconnected"**
+
 Transforma les dades  i estadístiques de l’aeroport de Charlotte en temps real en formes abstractes i colors que canvien.
+
 **"Virtual Depictions"** 
+
 Permet als espectadors interactuar amb les visuals i formar part de l'obra.
+
 **"Melting Memories"** 
+
 Utilitza dades de les ones cerebrals per crear visuals en moviment que representen els processos de la memòria humana.
+
 **"Quantum Memories"** 
+
 Utilitza 200 milions de fotografies de la Terra per crear una realitat alternativa de la natura. Fa servir una computadora quàntica per explorar la física inusual del món subatòmic i convertir-ho en art. Representa la nostra memòria col·lectiva i fa visible els nostres records digitalitzats de la natura. 
 
 [Quantum Memories](https://www.youtube.com/watch?v=oFsjVtmnbS0)
